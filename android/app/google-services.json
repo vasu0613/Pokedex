@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "480442554756",
+    "project_id": "pokedexx-22247",
+    "storage_bucket": "pokedexx-22247.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480442554756:android:82552723b779c58f21a5d1",
+        "android_client_info": {
+          "package_name": "com.example.pokedexx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480442554756-drcuj1hgvg1at2nvfjrerjmo61ubvqvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pokedexx",
+            "certificate_hash": "876dd846b2a8eb31dce90ff7eb708eaca3da6a81"
+          }
+        },
+        {
+          "client_id": "480442554756-bktnktbn7gsievp6rik4c0pn0ftbob3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJa8EZ_p3PSrpvKDjRgrt0oCJTkDLGn40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480442554756-1mgsu6e2a90d364mocsa8qasq627tl1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "480442554756-l9j08v8ov6pbj2vl52tr630m9c6v2pdp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pokedexx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

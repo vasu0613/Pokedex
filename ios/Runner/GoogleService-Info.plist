@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>480442554756-l9j08v8ov6pbj2vl52tr630m9c6v2pdp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.480442554756-l9j08v8ov6pbj2vl52tr630m9c6v2pdp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>480442554756-drcuj1hgvg1at2nvfjrerjmo61ubvqvp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAR3tVWyxg6wr2y_CrFfZbFR2yLJOaQQ1o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>480442554756</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pokedexx</string>
+	<key>PROJECT_ID</key>
+	<string>pokedexx-22247</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pokedexx-22247.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:480442554756:ios:22f917f821cf34ca21a5d1</string>
+</dict>
+</plist>
